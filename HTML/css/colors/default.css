@@ -1,0 +1,185 @@
+/*=== Blue ===*/
+a, a:hover {
+  color: #010101; }
+
+.topbar {
+  border-top: 1px solid #010101;
+  background-color: #8A0808 }
+
+.header .navbar-default .navbar-nav li a:hover {
+  color: #8A0808; }
+
+.header .navbar-default .navbar-nav .active a,
+.header .navbar-default .navbar-nav .active a:hover,
+.header .navbar-default .navbar-nav .active a:focus {
+  color: #8A0808 }
+
+.header .navbar-nav li.open .dropdown-menu li a:hover,
+.header .navbar-nav li.open .dropdown-menu li a:focus,
+.header .navbar-nav li.dropdown .dropdown-menu li a:hover,
+.header .navbar-nav li.dropdown .dropdown-menu li a:focus {
+  color: #8A0808 !important; }
+
+@media (max-width: 767px) {
+  .header .navbar-nav li.open .dropdown-menu li a:hover,
+  .header .navbar-nav li.open .dropdown-menu li a:focus,
+  .header .navbar-nav li.dropdown .dropdown-menu li a:hover,
+  .header .navbar-nav li.dropdown .dropdown-menu li a:focus {
+    color: #8A0808 !important; } }
+.header .navbar-nav li.open .dropdown-menu li.active a {
+  color: #8A0808 !important; }
+
+.captionLink, .captionLink:hover {
+  background-color: #8A0808; }
+
+.learnBtn {
+  border: 1px solid #D0C00F;
+  background: #D0C00F; }
+
+.flex-control-paging li a.flex-active {
+  background: #D0C00F}
+
+.related_post_sec a.more_post {
+  border: 1px solid #010101; }
+
+.courses_right_inner th {
+  background: #010101; }
+
+.courses_right_inner td ul li.active a {
+  color: #010101; }
+
+.courses_right_inner td a:hover {
+  color: #010101; }
+
+.pagination > li > a, .pagination > li > span {
+  border: 1px solid #010101; }
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+  border-color: #010101;
+  background: #010101; }
+
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
+  border-color: #010101;
+  background: #010101; }
+
+.courses_left_inner ul li a:hover, .courses_left_inner ul li a:focus {
+  color: #010101; }
+
+.courses_left_inner ul li.active a {
+  color: #010101; }
+
+.item_inner a.fees {
+  color: #010101; }
+
+.sidebar_item.admission .item_inner.program ul li a {
+  color: #010101; }
+
+#single_banner .flex-control-paging li a.flex-active {
+  background: #010101; }
+
+.item_inner.slider .flex-direction-nav a {
+  border: 1px solid #010101; }
+
+.item_inner.question a {
+  color: #010101; }
+
+.tab_menu > ul li a:hover {
+  background: #010101;
+  border-color: #8A0808; !important; }
+
+.tab_menu > ul li.active a {
+  background: #010101;
+  border-color: #8A0808; !important; }
+
+.tab_menu > ul li.active a::after, .tab_menu > ul li a:hover::after {
+  border-top: 10px solid #8A0808; }
+
+.fc-center h2 {
+  color: #010101; }
+
+.fc-event-container a.more {
+  color: #010101; }
+
+.carousel-indicators li.active {
+  background: #010101; }
+
+ul.contact_info li .fa {
+  color: #8A0808; }
+
+ul.contact_info li a:hover {
+  color: #8A0808; }
+
+.error-content a {
+  color: #010101; }
+
+.price-title {
+  background: #010101; }
+
+@media (max-width: 767px) {
+  .header .navbar-default .navbar-nav li.apply_now a:hover {
+    color: #010101; }
+
+  .header .navbar-nav li.open .dropdown-menu li a:hover, .header .navbar-nav li.open .dropdown-menu li a:focus {
+    color: #010101; } }
+/*=== Green ===*/
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  border: 1px solid #8A0808;
+  background: #8A0808; }
+
+.caption_inner a {
+  background: #D0C00F; }
+
+.features ul li:hover i {
+  color: #8A0808; }
+
+.content_top .content_left ul li:before {
+  color: #8A0808; }
+
+.thumb_title .author_designation a {
+  color: #8A0808; }
+
+.meta span a {
+  color: #8A0808; }
+
+.post_bottom ul li a span {
+  background: #8A0808; }
+
+.list_block {
+  border-top: 3px solid #8A0808; }
+
+.rel_right span.date a {
+  color: #8A0808; }
+
+.form-control:focus {
+  border-color: #8A0808; }
+
+.commonBtn, .commonBtn:hover {
+  background-color: #8A0808;
+  border-color: #8A0808; }
+
+.commonBtn:hover, .commonBtn:focus {
+  background-color: #8A0808 !important; }
+
+.formArea, .getArea {
+  border-top: 3px solid #8A0808; }
+
+.block_quate {
+  border-left: 4px solid #8A0808; }
+
+.sidebar_item {
+  border-top: 3px solid #8A0808; }
+
+.upcoming_events ul li:hover span.date {
+  color: #8A0808; }
+
+.event_calendar {
+  border-top: 3px solid #8A0808; }
+
+@media (min-width: 768px) {
+  .header .navbar-default .navbar-nav li.apply_now a {
+    background: #8A0808 !important; }
+
+  .header .navbar-default .navbar-nav li.apply_now a:hover {
+    background: #8A0808 !important; } }
+
+/*# sourceMappingURL=default.css.map */
