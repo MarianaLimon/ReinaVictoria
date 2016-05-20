@@ -250,7 +250,7 @@ jQuery(document).ready(function(){
 				}
 			]
 	    })
-	    $("a.fc-event").attr("href", "single-events.html")
+	    $("a.fc-event").attr("href", "evento.html")
 	});
 
 });

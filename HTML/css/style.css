@@ -3482,9 +3482,9 @@ body.bodyColor.container {
   text-transform: uppercase;
   text-decoration: none;
   display: block;
-  border-bottom: 1px solid #dce4ea;
-  border-top: 1px solid #dce4ea;
-  background: #f6f9fa;
+  border-bottom: 1px solid #D0C00F;
+  border-top: 1px solid #D0C00F;
+  background: white;
   text-align: center;
   height: 45px;
   padding: 5px;
@@ -3508,15 +3508,15 @@ body.bodyColor.container {
   }
 }
 .tab_menu > ul li a:hover {
-  background: #0060b1;
+  background: #D0C00F;
   color: #fff;
-  border-color: #0060b1 !important;
+  border-color: #D0C00F !important;
 }
 .tab_menu > ul li:first-child a {
-  border-left: 1px solid #dce4ea;
+  border-left: 1px solid #D0C00F;
 }
 .tab_menu > ul li:last-child a {
-  border-right: 1px solid #dce4ea;
+  border-right: 1px solid #D0C00F;
 }
 .tab_menu > ul li.active a {
   background: #0060b1;

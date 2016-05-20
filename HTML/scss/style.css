@@ -2289,7 +2289,7 @@ body.bodyColor.container {
     width: 100%; } }
 
 .upcoming_events ul li:hover span.date {
-  color: #49c32c;
+  color: red;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
   -ms-transition: color 0.3s;
@@ -2412,7 +2412,7 @@ body.bodyColor.container {
 .courses_right_inner td ul li.active a {
   font-weight: 700;
   text-decoration: underline;
-  color: #0060b1;
+  color: #D0C00F;
   font-size: 10px; }
   @media (max-width: 479px) {
     .courses_right_inner td ul li.active a {
