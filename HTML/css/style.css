@@ -76,6 +76,7 @@ h1 {
 
 h2 {
   font-size: 26px;
+  color: #8A0808;
 }
 
 h3 {
@@ -1514,7 +1515,7 @@ body.bodyColor.container {
   transition: color 0.3s;
 }
 .features ul li:hover i {
-  color: #49c32c;
+  color: red;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
   -ms-transition: color 0.3s;
@@ -1897,7 +1898,7 @@ body.bodyColor.container {
 /*=== 2.2 count_section ===*/
 .count_section {
   min-height: 455px;
-  background: url(../img/about/bg.jpg) no-repeat center center;
+  background: url(../img/about/bg1.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -1917,7 +1918,7 @@ body.bodyColor.container {
 .count_inner {
   min-height: 240px;
   background: #fff;
-  border-top: 3px solid #50afff;
+  border-top: 3px solid #D0C00F;
   text-align: center;
   padding: 35px 20px 10px;
 }
@@ -1943,7 +1944,7 @@ body.bodyColor.container {
 }
 
 .count_inner.postgraduate {
-  border-top: 3px solid #ffc85d;
+  border-top: 3px solid #D0C00F;
 }
 
 .count_inner.post {
@@ -1951,7 +1952,7 @@ body.bodyColor.container {
 }
 
 .count_inner.res {
-  border-top: 3px solid #84e06f;
+  border-top: 3px solid #D0C00F;
 }
 
 .count_inner.stuff {
@@ -2014,7 +2015,7 @@ body.bodyColor.container {
 /*=== 2.3 content_bottom ===*/
 .content_bottom {
   padding: 55px 0 45px;
-  background: #f1f4f7;
+  background: #F3F2F2;
 }
 
 .carousal_title {
