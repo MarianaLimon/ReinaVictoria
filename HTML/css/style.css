@@ -1389,7 +1389,7 @@ body.bodyColor.container {
 
 .counter {
   font-family: 'Roboto Slab', serif;
-  font-size: 50px;
+  font-size: 30px;
   line-height: 50px;
   font-weight: 700;
   margin-top: 10px;
@@ -1401,7 +1401,7 @@ body.bodyColor.container {
 }
 
 .seperator-small {
-  width: 10%;
+  width: 20%;
   height: 2px;
   background-color: rgba(255, 255, 255, 0.47);
   margin: 15px auto;
@@ -1409,7 +1409,7 @@ body.bodyColor.container {
 
 .count .col-xs-6 p {
   font-family: 'Roboto Slab', serif;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 20px;
   font-weight: 700;
   margin: 0;
