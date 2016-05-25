@@ -3585,7 +3585,7 @@ body.bodyColor.container {
 
 .admission-border {
   padding-bottom: 60px;
-  border-bottom: 1px solid #dce4ea;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   margin-bottom: 25px;
 }
 
@@ -3606,12 +3606,12 @@ body.bodyColor.container {
 
 .item_inner {
   border-top: none !important;
-  border: 1px solid #dce4ea;
+  border: 1px solid rgba(255, 255, 255, 0.5);
   padding: 15px 5px 20px 15px;
 }
 
 .item_inner.program {
-  background: #f6f9fa;
+  background: #f1f1f1;
 }
 
 .item_inner a.fees {
@@ -3654,10 +3654,10 @@ body.bodyColor.container {
 }
 
 .sidebar_item.admission .item_inner.program ul li a {
-  color: #0060b1;
+  color: rgba(255, 255, 255, 0.5);
   text-transform: uppercase;
   font-weight: 700;
-  border-bottom: 1px solid #dce4ea;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   display: block;
   text-decoration: none;
   padding-bottom: 17px;

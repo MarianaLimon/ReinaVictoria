@@ -21,56 +21,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/index.html">
+      <file leaf-file-name="evento.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/evento.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7174312">
-              <caret line="224" column="24" selection-start-line="224" selection-start-column="24" selection-end-line="224" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1411" column="15" selection-start-line="1411" selection-start-column="15" selection-end-line="1411" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.48253274">
+              <caret line="40" column="145" selection-start-line="40" selection-start-column="145" selection-end-line="40" selection-end-column="145" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flexslider.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/css/plugins/flexslider.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nosotros.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/nosotros.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,20 +51,23 @@
         <option value="$PROJECT_DIR$/HTML/contact-us.html" />
         <option value="$PROJECT_DIR$/HTML/photo-gallery3col.html" />
         <option value="$PROJECT_DIR$/HTML/curso.html" />
-        <option value="$PROJECT_DIR$/HTML/instalaciones.html" />
-        <option value="$PROJECT_DIR$/HTML/contacto.html" />
         <option value="$PROJECT_DIR$/HTML/events-left-sidebar.html" />
         <option value="$PROJECT_DIR$/HTML/galeria.html" />
         <option value="$PROJECT_DIR$/HTML/single-events.html" />
         <option value="$PROJECT_DIR$/HTML/single-course-left-sidebar.html" />
         <option value="$PROJECT_DIR$/HTML/stuff.html" />
-        <option value="$PROJECT_DIR$/HTML/css/colors/default.css" />
         <option value="$PROJECT_DIR$/HTML/scss/module/_reset.scss" />
         <option value="$PROJECT_DIR$/HTML/scss/_courses.scss" />
         <option value="$PROJECT_DIR$/HTML/scss/style.css" />
+        <option value="$PROJECT_DIR$/HTML/css/colors/default.css" />
         <option value="$PROJECT_DIR$/HTML/nosotros.html" />
+        <option value="$PROJECT_DIR$/HTML/instalaciones.html" />
+        <option value="$PROJECT_DIR$/HTML/contacto.html" />
+        <option value="$PROJECT_DIR$/HTML/inscripciones.html" />
         <option value="$PROJECT_DIR$/HTML/css/style.css" />
         <option value="$PROJECT_DIR$/HTML/index.html" />
+        <option value="$PROJECT_DIR$/HTML/lista_de_eventos.html" />
+        <option value="$PROJECT_DIR$/HTML/evento.html" />
       </list>
     </option>
   </component>
@@ -136,6 +107,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -182,45 +154,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Instituto Reina Victoria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Instituto Reina Victoria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dentalgs" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="reset&#9;FILE&#9;file://C:/wsworkspace/Instituto Reina Victoria/HTML/scss/module/_reset.scss&#10;boxed&#9;null&#9;null" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -306,25 +256,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.064375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09885932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18497914" sideWeight="0.50506973" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18489583" sideWeight="0.4949303" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28789985" sideWeight="0.4949303" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -343,20 +293,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/contacto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="146" selection-start-line="42" selection-start-column="146" selection-end-line="42" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/lista_de_eventos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="144" selection-start-line="41" selection-start-column="144" selection-end-line="41" selection-end-column="144" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/galeria.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -390,8 +326,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -457,24 +402,23 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PSD/Royal_College.psd">
       <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/css/style.css.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
       </provider>
     </entry>
@@ -544,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/404-error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0375376">
-          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/css/bootstrap/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.586466">
@@ -559,38 +496,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/events-calendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9468822">
-          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/instalaciones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="146" selection-start-line="42" selection-start-column="146" selection-end-line="42" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/lista_de_eventos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="144" selection-start-line="41" selection-start-column="144" selection-end-line="41" selection-end-column="144" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/galeria.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="146" selection-start-line="41" selection-start-column="146" selection-end-line="41" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/evento.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="144" selection-start-line="40" selection-start-column="144" selection-end-line="40" selection-end-column="144" />
         </state>
       </provider>
     </entry>
@@ -651,35 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/css/colors/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/contacto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5018797">
-          <caret line="42" column="146" selection-start-line="42" selection-start-column="146" selection-end-line="42" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/nosotros.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/img/home/video_image.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -701,14 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1411" column="15" selection-start-line="1411" selection-start-column="15" selection-end-line="1411" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/embed.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50859106">
@@ -717,14 +589,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/css/colors/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.413794">
+          <caret line="187" column="16" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/nosotros.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8725166">
+          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="96" />
+          <folding>
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/instalaciones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41880342">
+          <caret line="153" column="28" selection-start-line="153" selection-start-column="28" selection-end-line="162" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/contacto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0754717">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="245" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/buying-steps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36410257">
+          <caret line="1207" column="12" selection-start-line="196" selection-start-column="12" selection-end-line="1207" selection-end-column="12" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7174312">
-          <caret line="224" column="24" selection-start-line="224" selection-start-column="24" selection-end-line="224" selection-end-column="24" />
+        <state vertical-scroll-proportion="-0.8333333">
+          <caret line="293" column="28" selection-start-line="293" selection-start-column="28" selection-end-line="293" selection-end-column="28" />
           <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.726804">
+          <caret line="3656" column="33" selection-start-line="3656" selection-start-column="33" selection-end-line="3656" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/inscripciones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.8478632">
+          <caret line="137" column="60" selection-start-line="137" selection-start-column="60" selection-end-line="137" selection-end-column="60" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/css/style.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/lista_de_eventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.191453">
+          <caret line="201" column="42" selection-start-line="201" selection-start-column="42" selection-end-line="201" selection-end-column="42" />
+          <folding>
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/evento.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48253274">
+          <caret line="40" column="145" selection-start-line="40" selection-start-column="145" selection-end-line="40" selection-end-column="145" />
+          <folding />
         </state>
       </provider>
     </entry>

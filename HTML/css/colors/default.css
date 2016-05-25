@@ -14,6 +14,11 @@ a, a:hover {
 .header .navbar-default .navbar-nav .active a:focus {
   color: #8A0808 }
 
+.header .navbar-default .navbar-nav .active1 a,
+.header .navbar-default .navbar-nav .active1 a:hover,
+.header .navbar-default .navbar-nav .active1 a:focus {
+  color: #49c32c}
+
 .header .navbar-nav li.open .dropdown-menu li a:hover,
 .header .navbar-nav li.open .dropdown-menu li a:focus,
 .header .navbar-nav li.dropdown .dropdown-menu li a:hover,
@@ -177,7 +182,7 @@ ul.contact_info li a:hover {
 
 @media (min-width: 768px) {
   .header .navbar-default .navbar-nav li.apply_now a {
-    background: #8A0808 !important; }
+    background: #D0C00F !important; }
 
   .header .navbar-default .navbar-nav li.apply_now a:hover {
     background: #8A0808 !important; } }
