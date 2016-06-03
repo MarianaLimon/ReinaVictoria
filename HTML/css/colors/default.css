@@ -4,15 +4,15 @@ a, a:hover {
 
 .topbar {
   border-top: 1px solid #010101;
-  background-color: #8A0808 }
+  background-color: #4FB8FA}
 
 .header .navbar-default .navbar-nav li a:hover {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 .header .navbar-default .navbar-nav .active a,
 .header .navbar-default .navbar-nav .active a:hover,
 .header .navbar-default .navbar-nav .active a:focus {
-  color: #8A0808 }
+  color: #4FB8FA; }
 
 .header .navbar-default .navbar-nav .active1 a,
 .header .navbar-default .navbar-nav .active1 a:hover,
@@ -35,7 +35,7 @@ a, a:hover {
   color: #D0C00F !important; }
 
 .captionLink, .captionLink:hover {
-  background-color: #8A0808; }
+  background-color: #4FB8FA; }
 
 .learnBtn {
   border: 1px solid #D0C00F;
@@ -109,10 +109,10 @@ a, a:hover {
   background: #010101; }
 
 ul.contact_info li .fa {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 ul.contact_info li a:hover {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 .error-content a {
   color: #010101; }
@@ -128,63 +128,63 @@ ul.contact_info li a:hover {
     color: #010101; } }
 /*=== Green ===*/
 .navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  border: 1px solid #8A0808;
-  background: #8A0808; }
+  border: 1px solid #4FB8FA;;
+  background: #4FB8FA; }
 
 .caption_inner a {
   background: #D0C00F; }
 
 .features ul li:hover i {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 .content_top .content_left ul li:before {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 .thumb_title .author_designation a {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 .meta span a {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 .post_bottom ul li a span {
-  background: #8A0808; }
+  background: #4FB8FA; }
 
 .list_block {
-  border-top: 3px solid #8A0808; }
+  border-top: 3px solid #4FB8FA; }
 
 .rel_right span.date a {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 .form-control:focus {
-  border-color: #8A0808; }
+  border-color: #4FB8FA; }
 
 .commonBtn, .commonBtn:hover {
-  background-color: #8A0808;
-  border-color: #8A0808; }
+  background-color: #4FB8FA;
+  border-color: #4FB8FA; }
 
 .commonBtn:hover, .commonBtn:focus {
-  background-color: #8A0808 !important; }
+  background-color: #4FB8FA !important; }
 
 .formArea, .getArea {
-  border-top: 3px solid #8A0808; }
+  border-top: 3px solid #4FB8FA; }
 
 .block_quate {
-  border-left: 4px solid #8A0808; }
+  border-left: 4px solid #4FB8FA; }
 
 .sidebar_item {
-  border-top: 3px solid #8A0808; }
+  border-top: 3px solid #4FB8FA; }
 
 .upcoming_events ul li:hover span.date {
-  color: #8A0808; }
+  color: #4FB8FA; }
 
 .event_calendar {
-  border-top: 3px solid #8A0808; }
+  border-top: 3px solid #4FB8FA; }
 
 @media (min-width: 768px) {
   .header .navbar-default .navbar-nav li.apply_now a {
     background: #D0C00F !important; }
 
   .header .navbar-default .navbar-nav li.apply_now a:hover {
-    background: #8A0808 !important; } }
+    background: #4FB8FA !important; } }
 
 /*# sourceMappingURL=default.css.map */

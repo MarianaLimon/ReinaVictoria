@@ -899,7 +899,7 @@ body.bodyColor.container {
   padding: 25px;
   background: rgba(0, 0, 0, 0.74);
   position: relative;
-  z-index: 9999;
+  z-index: 999;
 }
 .caption_inner h1 {
   font-family: 'Roboto Slab', serif;
