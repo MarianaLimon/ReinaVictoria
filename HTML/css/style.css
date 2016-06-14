@@ -409,7 +409,7 @@ li.language.dropdown > a:hover, li.language.dropdown > a:focus {
 .navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
   border: 1px solid #49c32c;
   background: #49c32c;
-  margin: 9px 0 9px;
+  margin: 39px 9px 12px;
 }
 @media (min-width: 768px) {
   .navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -840,38 +840,38 @@ body.bodyColor.container {
 }
 
 .banner_caption {
-  width: 100%;
-  float: left;
+  width: 50%;
+  float: none;
   height: auto;
   position: absolute;
-  opacity: 0;
-  z-index: 9999;
+  opacity: 10;
+  z-index: 9998;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
-@media (max-width: 767px) {
+@media (max-width: 50px) {
   .banner_caption {
     display: none;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 5px) {
   .banner_caption {
-    padding: 35px;
-    bottom: 13px;
+    padding: 0;
+    bottom: 0;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 5px) {
   .banner_caption {
-    padding-left: 30px;
-    bottom: 12px;
+    padding-left: 0;
+    bottom: 0;
   }
 }
 
 .item.active .banner_caption {
-  opacity: 1;
+  opacity: 50;
 }
 
 #recommended-item-carousel .recommended-item-control {
@@ -895,9 +895,9 @@ body.bodyColor.container {
 }
 
 .caption_inner {
-  width: 595px;
+  width: 385px;
   padding: 25px;
-  background: rgba(0, 0, 0, 0.74);
+  background: rgba(0, 0, 0, 0.5);
   position: relative;
   z-index: 999;
 }
@@ -919,9 +919,9 @@ body.bodyColor.container {
   background: #49c32c;
   cursor: pointer;
 }
-@media (min-width: 768px) {
+@media (min-width: 568px) {
   .caption_inner {
-    padding: 20px;
+    padding: 2px;
   }
   .caption_inner h1 {
     font-size: 20px;
@@ -935,7 +935,7 @@ body.bodyColor.container {
     padding: 8px 25px;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 582px) {
   .caption_inner {
     padding: 30px;
   }

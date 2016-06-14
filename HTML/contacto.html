@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Instituto Reina Victoria</title>
 
-  <link rel="icon" type="image/png" href="img/Logo%20Instutito%20RV.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
   <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/plugins/select_option1.css">
   <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
@@ -34,9 +34,9 @@
     <div class="topbar clearfix">
       <div class="container">
         <ul class="topbar-left">
-          <li class="phoneNo"><i class="fa fa-phone"></i>5581 4548</li>
+          <li class="tel:+52 5581 4548"><i class="fa fa-phone"></i>5581 4548</li>
           <li class="email-id hidden-xs hidden-sm"><i class="fa fa-envelope"></i>
-            <a href="#">info@institutoreinavictoria.com</a>
+            <a href="">info@institutoreinavictoria.com</a>
           </li>
         </ul>
         <ul class="topbar-right">
@@ -64,19 +64,11 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="main-nav">
                   <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="index.html">INICIO</a></li>
-                    <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">¿QUÍENES SOMOS?</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="nosotros.html">Acerca de la Institución</a></li>
-                        <li><a href="instalaciones.html">Instalaciones</a></li>
-                        <!--<li><a href="equipo.html">Profesores</a></li>-->
-                      </ul>
-                    </li>
+                    <li><a href="index.html">INICIO</a></li>
+                    <li><a href="nosotros.html">¿QUÍENES SOMOS?</a></li>
                     <li><a href="lista_de_eventos.html">NOTICIAS</a></li>
-                    <li><a href="contacto.html">CONTÁCTANOS</a></li>
+                    <li class="active"><a href="contacto.html">CONTÁCTANOS</a></li>
                     <li class="apply_now"><a href="inscripciones.html">INSCRIPCIÓN !!!!</a></li>
-
                   </ul>
                 </div><!-- navbar-collapse -->
               </div>
@@ -98,36 +90,36 @@
                           <p>Solo tienes que llenar el siguiente formulario y precionar el boton <strong>enviar mensaje</strong> para que nos pongamos en contacto contigo.</p>
 
                           <div class="contact_form">
-								<form method="post" action="#">
+								<form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php" role="form">
 									<div class="row">
 										<div class="col-xs-12 col-sm-7">
 											<div class="form-group">
-												<label>Nombre <span class="error">*</span></label>
-												<input type="text" class="form-control" name="name">
+												<label for="name">Nombre <span class="error">*</span></label>
+												<input type="text" class="form-control" name="name" id="name" required="required">
 											</div>
 										</div>
 									</div><!--end row-->
 									<div class="row">
 										<div class="col-xs-12 col-sm-7">
 											<div class="form-group">
-												<label>Correo electrónico <span class="error">*</span></label>
-												<input type="text" class="form-control" name="email">
+												<label for="email">Correo electrónico <span class="error">*</span></label>
+												<input type="text" class="form-control" name="email" id="email" required="required">
 											</div>
 										</div>
 									</div><!--end row-->
                                   <div class="row">
                                     <div class="col-xs-12 col-sm-7">
                                       <div class="form-group">
-                                        <label>Número telefónico<span class="error">*</span></label>
-                                        <input type="text" class="form-control" name="email">
+                                        <label for="phoneno">Número telefónico<span class="error">*</span></label>
+                                        <input type="text" class="form-control" name="phoneno" id="phoneno" required="required">
                                       </div>
                                     </div>
                                   </div><!--end row-->
 									<div class="row">
 										<div class="col-xs-12 col-sm-11">
 											<div class="form-group">
-												<label>Mensaje<span class="error">*</span></label>
-												<textarea class="form-control" cols="10" rows="9"></textarea>
+												<label for="message">Mensaje<span class="error">*</span></label>
+												<textarea class="form-control" rows="8" name="message" id="message" required="required"></textarea>
 											</div>
 										</div>
 									</div><!--end row-->
@@ -143,9 +135,10 @@
 								<h3>Contáctanos</h3>
 								<ul class="contact_info">
 									<li><i class="fa fa-home"></i> Paseo del Río #101 Col. Paseos de Taxqueña</li>
-									<li><i class="fa fa-envelope"></i> <a href="mailto:info@example.com">info@institutoreinavictoria.com</a></li>
-									<li><i class="fa fa-phone"></i> 5581 4548</li>
-									<li><i class="fa fa-globe"></i> <a href="#">http://www.institutoreinavictoria.com</a></li>
+                                    <li><i class="fa fa-home"></i> Av. Heroica Escuela Naval Militar #522, San Francisco Culhuacan, Ex-Ejido de San Francisco Culhuacan, </li>
+									<li><i class="fa fa-envelope"></i> <a href="">info@institutoreinavictoria.com</a></li>
+									<li class="tel:+52 5581 4548"><i class="fa fa-phone"></i> 5581 4548</li>
+									<li><i class="fa fa-globe"></i> <a href="">http://www.institutoreinavictoria.com</a></li>
 								</ul>
 							</div>
 							<div class="list_block">
@@ -164,8 +157,9 @@
 
 
 		<div class="contact_map container">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.4431699294337!2d-99.1249378850946!3d19.34995438693129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fe180d55c389%3A0xb7629d77951ca0de!2sPaseo+del+R%C3%ADo+101%2C+Paseos+de+Taxque%C3%B1a%2C+04250+Ciudad+de+M%C3%A9xico%2C+D.F.!5e0!3m2!1ses!2smx!4v1464190791890" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+         <iframe src="https://www.google.com/maps/d/embed?mid=1s5lXsVFe9ZjzVJ2PPn2ddtKF6rM" width="100%" height="480"></iframe>
         </div><!--end contact map-->
+
 
         <br><br>
 
@@ -177,10 +171,9 @@
           <div class="col-sm-5 col-xs-6">
             <ul class="menuLink clearfix">
               <li><a href="nosotros.html">Acerca de Instituto Reina Victoria</a></li>
-              <li><a href="instalaciones.html">Nuestras Instalaciones</a></li>
-              <li><a href="galeria.html">Fotografías</a></li>
-              <li><a href="curso.html">Conoce nuestras actividades</a></li>
               <li><a href="lista_de_eventos.html">Ponte al día</a></li>
+              <li><a href="contacto.html">Contáctanos</a></li>
+              <li><a href="inscripciones.html">Bases para la inscripción</a></li>
             </ul>
           </div><!-- col-sm-3 col-xs-6 -->
 
