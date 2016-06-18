@@ -56,7 +56,7 @@ jQuery(document).ready(function(){
 		prevText: "",          
 		nextText: "",
 		pauseOnAction: false,
-		touch: true, 
+		touch: false
 	});
 	
 	if (document.documentElement.clientWidth < 992) {
@@ -69,14 +69,14 @@ jQuery(document).ready(function(){
 			directionNav:false,
 			prevText: "",          
 			nextText: "",
-			pauseOnAction: false,
-			touch: true, 
+			pauseOnAction: true,
+			touch: false,
 			minItems: 1,
 			maxItems: 1,
 			move: 1, 
 			animationLoop: true,
 			direction: "horizontal",
-			reverse: false, 
+			reverse: false
 		});
 	}
 	jQuery('.carousal_section').flexslider({
@@ -88,15 +88,15 @@ jQuery(document).ready(function(){
 		directionNav:false,
 		prevText: "",          
 		nextText: "",
-		pauseOnAction: false,
-		touch: true, 
+		pauseOnAction: true,
+		touch: false,
 		itemWidth: 475,
 		minItems: 1,
 		maxItems: 2,
 		move: 1, 
 		animationLoop: true,
 		direction: "horizontal",
-		reverse: false, 
+		reverse: false
 	});
 
 	(function() {
@@ -192,7 +192,7 @@ jQuery(document).ready(function(){
 	    $('#calendar').fullCalendar({
 	        header: {
 				left: 'prev,next',
-				center: 'title',
+				center: 'title'
 			},
 			defaultDate: '2016-03-12',
 			editable: true,
@@ -249,7 +249,7 @@ jQuery(document).ready(function(){
 					start: '2016-03-28'
 				}
 			]
-	    })
+	    });
 	    $("a.fc-event").attr("href", "evento.html")
 	});
 
